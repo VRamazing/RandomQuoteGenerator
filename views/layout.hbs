@@ -15,10 +15,10 @@
             <div class="col s12  m6 offset-m3">
               <div class="card {{color}}">
                 <div class="card-content white-text">
-                 <div class= "quote-text"> 
+                  <div class= "quote-text"> 
                  
                       {{{body}}}
-                     
+                  </div>
                   <div class="row">
                       
                       <div class="col s6">
@@ -32,7 +32,7 @@
                               <i class="fa fa-share" aria-hidden="true"></i>
                             </a>
                             <ul>
-                              <li><a class="btn-floating blue lighten-1"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                              <li><a class="btn-floating blue lighten-1"  href="https://twitter.com/intent/tweet?text={{text}}%20-%20{{name}}" ><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                               <li><a class="btn-floating blue darken-1"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>    
                             </ul>
                           </div>
@@ -46,10 +46,11 @@
             </div><!--cols12-->
           </div><!--row quote-->
     </div><!--container fluid-->
-
+  <script src = "javascripts/twitter.js"></script>
   <script src = "javascripts/jquery.min.js"></script>
   <script src = "javascripts/materialize.min.js"></script>
   <script src = "javascripts/main.js"></script>
+
   
   </body>
 </html>
