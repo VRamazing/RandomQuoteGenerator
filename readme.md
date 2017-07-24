@@ -5,4 +5,10 @@ This web app displays a random quote each time you visit it.Want to get inspired
 * Express.js
 * Node.js
 * Materialize-css
-* Sass
+* Sass 
+
+## To Run
+1. Download the complete package
+2. Go into project folder
+3. Open terminal in that folder and type *_npm start_*
+4. The project will run at http://localhost:3000
