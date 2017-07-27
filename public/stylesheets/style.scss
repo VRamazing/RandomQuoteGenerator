@@ -13,7 +13,7 @@ body{padding: 30px;
     }
 
 .quote{
-  margin-top: 100px;
+  margin-top: 60px;
 }
 
 div.fixed-action-btn.horizontal.click-to-toggle {
@@ -22,9 +22,8 @@ div.fixed-action-btn.horizontal.click-to-toggle {
   right:4px;
   bottom:10px;
   top:10px;
-  
- 
 }
+
 .fixed-action-btn.horizontal ul li{
   margin:1px 5px 0 0!important;
 }
@@ -32,3 +31,12 @@ div.fixed-action-btn.horizontal.click-to-toggle {
 .waves-effect.green.accent-4.waves-light.btn{
   margin-top:22px;
 }
+
+.btn-floating.blue.lighten-1{
+	margin-top:22px;
+	position:absolute;
+	right:30px;
+}
+
+a.github-button{position:relative;
+	right:30px;text-align:right;margin:100px;}
