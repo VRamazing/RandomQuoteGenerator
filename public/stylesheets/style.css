@@ -9,7 +9,7 @@ body {
   background-color: #dde0ce; }
 
 .quote {
-  margin-top: 60px; }
+  margin-top: 30px; }
 
 div.fixed-action-btn.horizontal.click-to-toggle {
   position: relative;
@@ -25,9 +25,9 @@ div.fixed-action-btn.horizontal.click-to-toggle {
   margin-top: 22px; }
 
 .btn-floating.blue.lighten-1 {
-  margin-top: 22px;
+  
   position: absolute;
-  right: 30px; }
+  right: 35px; }
 
 a.github-button {
   position: relative;
