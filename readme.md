@@ -12,3 +12,5 @@ This web app displays a random quote each time you visit it.Want to get inspired
 2. Go into project folder
 3. Open terminal in that folder and type *_npm start_*
 4. The project will run at http://localhost:3000
+
+Live version deployed https://randomquotegenerator-y9uq.onrender.com/
